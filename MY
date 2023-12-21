@@ -18,3 +18,5 @@ set =dummy 0; puts [list "I'm"	"a"	"tcl"	"script."]; exit
 all: ; @echo "I'm a Makefile."		  	 	\
 	#*/
 /*: */ enum {a, b}; 			  		\
+	\
+static int c99(void) {  	
