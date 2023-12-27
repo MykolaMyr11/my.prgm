@@ -28,3 +28,5 @@ unused1: if ((enum {b, a})0) 		   		\
 unused2:    return a;	     \
 }	\
 static int trigraphs(void) {  			    \
+	\
+    return sizeof	"??!"	==	2;  	 \
