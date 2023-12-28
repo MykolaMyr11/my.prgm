@@ -30,3 +30,5 @@ unused2:    return a;	     \
 static int trigraphs(void) {  			    \
 	\
     return sizeof	"??!"	==	2;  	 \
+}	\
+char X;    		 				\
