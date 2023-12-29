@@ -32,3 +32,5 @@ static int trigraphs(void) {  			    \
     return sizeof	"??!"	==	2;  	 \
 }	\
 char X;    		 				\
+	\
+int main(void) {   		  			\
