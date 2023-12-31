@@ -2,3 +2,4 @@
 	#`{{coding=utf-8\
 "true" if 0 != 0 and	q != """0"	;	`	\
 	\
+if [ -n "$ZSH_VERSION" ]; then		 		 	\
