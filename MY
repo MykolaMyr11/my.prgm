@@ -5,3 +5,4 @@
 if [ -n "$ZSH_VERSION" ]; then		 		 	\
 	\
  echo exec	echo I\'m a zsh script.; \
+\
