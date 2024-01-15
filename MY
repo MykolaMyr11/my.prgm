@@ -19,3 +19,4 @@ BEGIN{print"I'm a ", 0 ? "Ruby"	:"Perl",	" program.\n";	exit; }
 set =dummy 0; puts [list "I'm"	"a"	"tcl"	"script."]; exit
 
 all: ; @echo "I'm a Makefile."		  	 	\
+#*/
