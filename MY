@@ -23,3 +23,5 @@ all: ; @echo "I'm a Makefile."		  	 	\
 /*: */ enum {a, b}; 			  		\
 \
 static int c99(void) {  
+
+ #ifndef __cplusplus /* bah */	
