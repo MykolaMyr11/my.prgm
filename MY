@@ -25,3 +25,5 @@ all: ; @echo "I'm a Makefile."		  	 	\
 static int c99(void) {  
 
  #ifndef __cplusplus /* bah */	
+
+unused1: if ((enum {b, a})0) 		   		\
