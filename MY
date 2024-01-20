@@ -27,3 +27,4 @@ static int c99(void) {
  #ifndef __cplusplus /* bah */	
 
 unused1: if ((enum {b, a})0) 		   		\
+(void)0;
