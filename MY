@@ -29,3 +29,5 @@ static int c99(void) {
 unused1: if ((enum {b, a})0) 		   		\
 (void)0;
  #endif    
+
+unused2:    return a;	     \
