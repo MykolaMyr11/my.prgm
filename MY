@@ -14,3 +14,4 @@ else	\
 fi`;	#!;#\
 BEGIN{print"I'm a ", 0 ? "Ruby"	:"Perl",	" program.\n";	exit; } 
 #\
+%q~ 
